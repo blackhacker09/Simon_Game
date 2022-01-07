@@ -11,6 +11,9 @@
  * When you enter the wrong pattern at any level . GAME OVER !!!
  * Refresh the page to restart the game.
 
+# What's Your MAX level in Simon Game 😂 ???
+# Mine - Level 10 �😅🥲
+
 #
 
  My project is available at Github : https://blackhacker09.github.io/Simon_Game/
