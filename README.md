@@ -1,6 +1,11 @@
 # Simon_Game (Remember the colour game) 🔴 🔵 🟡 🟢 🤔
 #
 
+# Live @ Github : https://blackhacker09.github.io/Simon_Game/
+ 
+# Live @ Netlify : https://adoring-stonebraker-0ce4a8.netlify.app
+
+
 # Flow of Playing this Game :
 
  * Press A to Start the Game.
@@ -11,11 +16,8 @@
  * When you enter the wrong pattern at any level . GAME OVER !!!
  * Refresh the page to restart the game.
 
-# What's Your MAX level in Simon Game 😂 ???
-# Mine - Level 10 �😅🥲
+# What's Your MAX level in Simon Game 😂 ???   ( Let me know if u played and enjoy !!! )
+# Mine - Level 10 😅🥲
 
-#
 
- My project is available at Github : https://blackhacker09.github.io/Simon_Game/
- 
- My project is available at Netlify : https://adoring-stonebraker-0ce4a8.netlify.app
+
