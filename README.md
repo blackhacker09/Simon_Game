@@ -1,4 +1,5 @@
 # Simon_Game
+#
 
 # Flow of Playing this Game :
 
@@ -8,9 +9,10 @@
  4. Now, another color will blinks (e.g - blue) , then you have to press the colors from starting of the game . ( i.e first press green then blue )
  5. You have to remember the pattern of blinking colors.
  6. When you enter the wrong pattern at any level . GAME OVER !!!
+ 7. Refesh the page to restart the game.
 
- My project is available at Github : 
- 
- 
+#
+
+ My project is available at Github : https://blackhacker09.github.io/Simon_Game/
  
  My project is available at Netlify : https://adoring-stonebraker-0ce4a8.netlify.app
