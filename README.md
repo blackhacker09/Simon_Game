@@ -16,7 +16,7 @@
  * When you enter the wrong pattern at any level . GAME OVER !!!
  * Refresh the page to restart the game.
 
-# What's Your MAX level in Simon Game 😂 ???   ( Let me know if u played and enjoy !!! )
+# What's Your MAX level in Simon Game 😂 ???   ( Let me know if u played and enjoyed !!! )
 # Mine - Level 10 😅🥲
 
 
