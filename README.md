@@ -1,4 +1,4 @@
-# Simon_Game
+# Simon_Game ( Remember the colour game ) 🔴 🔵 🟡 🟢
 #
 
 # Flow of Playing this Game :
