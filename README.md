@@ -8,7 +8,7 @@
 
 # Flow of Playing this Game :
 
- * Press A to Start the Game.
+ * Press click here to Start the Game.
  * Out of 4 different Color one will blink and sound will produce.  ( e.g - Green color blinks )
  * You have to remember this color for going to next level . ( i.e now you have to press green color ).
  * Now, another color will blinks (e.g - blue) , then you have to press the colors from starting of the game . ( i.e first press green then blue )
