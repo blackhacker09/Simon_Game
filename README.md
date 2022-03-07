@@ -3,7 +3,7 @@
 
 # Live @ Github : https://blackhacker09.github.io/Simon_Game/
  
-# Live @ Netlify : https://adoring-stonebraker-0ce4a8.netlify.app
+# Live @ Netlify : https://my-simon-game.netlify.app/
 
 
 # Flow of Playing this Game :
