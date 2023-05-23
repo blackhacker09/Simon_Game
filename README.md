@@ -1,10 +1,4 @@
 # Simon_Game (Remember the colour game) 🔴 🔵 🟡 🟢 🤔
-#
-
-# Live @ Github : https://blackhacker09.github.io/Simon_Game/
- 
-# Live @ Netlify : https://my-simon-game.netlify.app/
-
 
 # Flow of Playing this Game :
 
@@ -18,6 +12,3 @@
 
 # What's Your MAX level in Simon Game 😂 ???   ( Let me know if u played and enjoyed !!! )
 # Mine - Level 10 😅🥲
-
-
-
