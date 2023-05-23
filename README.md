@@ -1,5 +1,7 @@
 # Simon_Game (Remember the colour game) 🔴 🔵 🟡 🟢 🤔
 
+Simon Game is a fun and simple music-memory game, built in HTML5 and Javascript
+
 # Flow of Playing this Game :
 
  * Press click here to Start the Game.
