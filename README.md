@@ -11,6 +11,3 @@ Simon Game is a fun and simple music-memory game, built in HTML5 and Javascript
  * You have to remember the pattern of blinking colors.
  * When you enter the wrong pattern at any level . GAME OVER !!!
  * Refresh the page to restart the game.
-
-# What's Your MAX level in Simon Game 😂 ???   ( Let me know if u played and enjoyed !!! )
-# Mine - Level 10 😅🥲
